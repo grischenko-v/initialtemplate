@@ -4,11 +4,11 @@
 - livereload
 - susy
 - and other
-
+##
 ## Lanching:
 - npm install
 - gulp
-
+##
 ## Project Structure:
  app/                     
    ├── css/
@@ -17,4 +17,5 @@
    ├── js/ 
    ├── libs/ 
    ├── sccss/ 
-   └── index.html                   
+   └── index.html    
+##
