@@ -11,11 +11,11 @@
 ##
 ## Project Structure:
  app/                     
-   ├── css/
-   ├── fonts/                   
-   ├── img/       
-   ├── js/ 
-   ├── libs/ 
-   ├── sccss/ 
+   ├── css
+   ├── fonts                 
+   ├── img       
+   ├── js
+   ├── libs
+   ├── sccss
    └── index.html    
 ##
