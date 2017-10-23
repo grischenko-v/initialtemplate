@@ -10,6 +10,7 @@
 - gulp
 ##
 ## Project Structure:
+```
  app/                     
    ├── css
    ├── fonts                 
@@ -17,5 +18,6 @@
    ├── js
    ├── libs
    ├── sccss
-   └── index.html    
+   └── index.html 
+```      
 ##
